@@ -1,0 +1,3 @@
+- Google Take Out
+- Historial de ubicaciones (Rutas)
+- Archivo Records.json
